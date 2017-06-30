@@ -24,6 +24,8 @@ float target_y = 18;
 
 boolean flag = false;
 
+//単純に数個置く
+
 //int [] box_x = {
 //  2, 8, 6, 7, 4, 17, 16
 //};
