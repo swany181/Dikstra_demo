@@ -1,5 +1,5 @@
 # Dikstra_demo
-Demonstration of dikstra by processing<br>
+Demonstration of dikstra in processing<br>
 <br>
 I want you to have an amazing experience like mine<br>
 Please click <a href="http://shiratori.nkmr.io/dikstra.html">here</a>
